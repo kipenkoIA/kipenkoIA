@@ -14,7 +14,6 @@
   - :house: real estate
   - :credit_card: fintech
   - :iphone: digital content
-- :atom_symbol: Ex-scientict in physics
 - :briefcase::mag: job seeker
 
 ### Languages and tools
