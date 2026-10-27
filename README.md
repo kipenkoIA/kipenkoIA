@@ -6,7 +6,7 @@
     <a href="https://t.me/tguser738943">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
 badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+    </a>
 </div>
 
 ### About me
