@@ -14,10 +14,10 @@
   - :house: real estate
   - :credit_card: fintech
   - :iphone: digital content
-- :atom_symbol: scientict in physics
+- :atom_symbol: Ex-scientict in physics
+- :briefcase::mag: job seeker
 
 ### Languages and tools
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="posgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-plain.svg" title="clickhouse" width="40" height="40"/>&nbsp;
